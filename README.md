@@ -1,24 +1,35 @@
-# README
+The Odin Project Flickr API
+===========
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project shows an introduction into using third-party APIs.
 
-Things you may want to cover:
+Look how easy it is to use:
 
-* Ruby version
+$ rails s
 
-* System dependencies
+Then look up the user you wish for the photos to populate for.
 
-* Configuration
+Features
+-----------
 
-* Database creation
 
-* Database initialization
+Installation
+-----------
 
-* How to run the test suite
+Install $project by running:
 
-* Services (job queues, cache servers, search engines, etc.)
+  $ bundle install
+  $ rails db:migrate
 
-* Deployment instructions
+Contribute
+-----------
 
-* ...
+
+Support
+-----------
+
+
+License
+-----------
+
+The project is licensed under the BSD license.
